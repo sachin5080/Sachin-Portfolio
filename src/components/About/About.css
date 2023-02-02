@@ -1,0 +1,9 @@
+.about {
+    background: black;
+}
+
+.aboutTextPart {
+    display: flex;
+    align-items: center;
+
+}

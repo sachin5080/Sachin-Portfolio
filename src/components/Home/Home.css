@@ -1,0 +1,57 @@
+.home {
+    background-image: url('/public/back.gif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.homeTextPart {
+    display: flex;
+    align-items: center;
+    padding-top: 100px;
+}
+
+.homeTextPart h3 {
+    color: rgb(225, 10, 178);
+}
+
+.homeImagePart {
+    padding-top: 72px;
+    align-items: center;
+    justify-content:flex-end
+
+}
+
+.icons a {
+    font-size: 20px;
+    padding:  0px 10px;
+}
+
+.icons a:hover {
+    color: rgb(225,10,178);
+}
+
+.bi {
+    color: white;
+}
+
+.bi:hover {
+    border-color: rgb(225, 10, 178);
+}
+
+@media screen and (max-width: 768px) {
+    .home {
+        height: auto;
+    }
+    .homeTextpart {
+        text-align: center;
+        padding-top: 80px;
+    }
+}
+
+@media screen and (min-width: 769px) {
+    .homeImagePart {
+        padding-left: 80px;
+    }
+}
