@@ -11,15 +11,15 @@ export default function Contact() {
             <div className='container mx-md-auto text-center'>
                 <form>
                     <div className='form-group mt-2'>
-                        <label for="Uname"> User Name:</label>
+                        <label htmlFor="Uname"> User Name:</label>
                         <input type="text" className='form-control' id="Uname" placeholder='Enter name' />
                     </div>
                     <div className='form-group mt-2'>
-                        <label for="email"> Email:</label>
+                        <label htmlFor="email"> Email:</label>
                         <input type="email" className='form-control' id="email" placeholder='Enter email' />
                     </div>
                     <div className='form-group mt-2'>
-                        <label for="message"> Message:</label>
+                        <label htmlFor="message"> Message:</label>
                         <textarea className="form-control" id="message" cols="30" rows="10"
                             placeholder='Message...'></textarea>
                     </div>

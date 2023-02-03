@@ -31,7 +31,7 @@ export default function About() {
                             </ul>
                             <table>
                                 <tbody>
-                                   
+
 
                                     <tr>
                                         <td className='pe-5'>Mobile</td>
