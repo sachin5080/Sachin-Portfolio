@@ -16,10 +16,10 @@ export default function Home() {
                                         autoStart: true,
                                         loop: true,
                                         delay: 60,
-                                        strings: ["Hello, my name is SACHIN. I'm a Frontend Web Developer."]
+                                        strings: ["Hello, my name is SACHIN.<br/> I'm a Frontend Web Developer."]
                                     }} />
                             </h1><br/>
-                            <p>A highly motivated and enthusiastic software developer seeking a challenging role as a Front-End Developer where i can utilize my skills in React.js, HTML, CSS, Javascript and Bootstrap to create interactive and user-friendly websites.</p>
+                            <p>A highly motivated and enthusiastic software developer seeking a challenging role as a<br/> Frontend Developer where i can utilize my skills in React.js, HTML, CSS, Javascript and<br/> Bootstrap to create interactive and user-friendly websites.</p>
                             <div className="icons">
                                 <a href="https://www.linkedin.com/in/sachin-kumar-04060b258/"><i className="bi bi-linkedin"></i></a>
                                 <a href="https://github.com/sachin5080"><i className="bi bi-github"></i></a>

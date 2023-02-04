@@ -31,7 +31,7 @@ export default function Navbar() {
             </nav>
             <div className="offcanvas offcanvas-start" tabIndex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
                 <div className="offcanvas-header">
-                    <h5 className="offcanvas-title" id="offcanvasExampleLabel">Offcanvas</h5>
+                    <h5 className="offcanvas-title" id="offcanvasExampleLabel">Portfolio</h5>
                     <button type="button" className="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
                 </div>
                 <div className="offcanvas-body">
@@ -42,12 +42,11 @@ export default function Navbar() {
 
 
                         <a className="nav-link" href="/">About</a>
-
-
-                        <a className="nav-link" href="/">Services</a>
-
+                 
 
                         <a className="nav-link" href="/">Projects</a>
+
+                        <a className="nav-link" href="/">Contact</a>
 
                     </div>
                 </div>

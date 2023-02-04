@@ -8,14 +8,14 @@ hr {
 }
 
 .contact button {
-    color: rgb(211, 23, 111);
-    border: 1px solid rgb(211, 23, 111);
+    color: rgb(226, 63, 34);
+    border: 1px solid rgb(226, 63, 34);
     background-color:  transparent;
 }
 
 .contact button:hover {
     color: white;
-    background-color:  rgb(211, 23, 111);
+    background-color:  rgb(226, 63, 34);
 }
 
 @media screen and (min-width: 769px) {
