@@ -44,7 +44,7 @@ export default function About() {
 
                                 </tbody>
                             </table>
-                            <a href="Resume-Sachin.pdf" download="Resume-Sachin.pdf"><button className='btn btn-primary mt-4'> Download CV</button>
+                            <a href="Sachin-resume.pdf" download="Sachin-resume.pdf"><button className='btn btn-primary mt-4'> Download Resume</button>
                             </a>
                         </div>
 
